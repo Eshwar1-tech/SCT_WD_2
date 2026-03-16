@@ -20,10 +20,10 @@ The Calculator Web Application performs basic arithmetic operations and demonstr
 - JavaScript
 
 ### Live Demo
-https://yourusername.github.io/SCT_WD_2/
+https://eshwar1-tech.github.io/SCT_WD_2/
 
 ### GitHub Repository
-https://github.com/yourusername/SCT_WD_2
+https://github.com/eshwar1-tech/SCT_WD_2
 
 ### Internship
 SkillCraft Technology – Web Development Internship
